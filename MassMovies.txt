@@ -1,8 +1,8 @@
 list 1
 Mass 5 movies
-Arambam
-Dhenna
-Billa
-Beast
-Master
+Varisu 
+Thupakki
+Jilla
+Mangatha
+Thunivu
 
